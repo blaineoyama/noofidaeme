@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uekaiphoe.my-washingtonpost.com/sitemap.xml
